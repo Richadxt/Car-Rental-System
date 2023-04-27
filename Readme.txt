@@ -1,21 +1,12 @@
 How to run Project
-1. Download and Unzip the file on your local system copy carrental .
+1. Download the file on your local system copy carrental .
 2. Put carrental folder inside root directory (for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
 Database Configuration
 
 Open phpmyadmin
 Create Database carrental
-Import database carrental.sql (available SQL File Folder inside zip package)
+Import database carrental.sql
 
-For User
-Open Your browser put inside browser “http://localhost/carrental”
-Login Details for user:
-Username : richa@gmail.com
-Password: R0916867
+Car-Rental-System project, the name itself suggests that it's for car rent purposes. Buyer can easily rent their budgeted car at a suitable cost. This project is created using HTML 5, CSS 3, Bootstrap, Javascript and PHP with MySQL database connectivity is at the backend.
 
-For Admin Panel
-Open Your browser put inside browser “http://localhost/carrental/admin”
-Login Details for admin :
-Username: admin
-Password: Richa@0916867
