@@ -1,4 +1,4 @@
-#Car Rental System
+# Car-Rental-System
 
 This is a web application that allows customers to rent cars and manage their reservations, while car rental agencies can register on the system and add their cars to be rented. The system is built using HTML, CSS, JavaScript, Bootstrap, PHP, and MySQL.
 
